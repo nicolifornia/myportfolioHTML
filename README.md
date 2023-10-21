@@ -1,2 +1,2 @@
-# myportfolioHTML
-coded using HTML 5
+# myportfolio
+Coded using HTML 5, CSS, and Bootstrap.
